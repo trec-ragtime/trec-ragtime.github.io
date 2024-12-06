@@ -69,7 +69,7 @@ retrieve documents that help satisfy this information need.
 
 ## See Also: TREC NeuCLIR
 
-TREC NeuCLIR (Neural CLIR) was the predecessor to TREC RAGTIME. In 2024, NeuCLIR included a pilot study of
+TREC NeuCLIR (Neural CLIR) was the predecessor of TREC RAGTIME. In 2024, NeuCLIR included a pilot study of
 report generation. You can find more about NeuCLIR at the [TREC NeuCLIR website](https://neuclir.github.io/).
 
 <span class='navigate_toc'><i class="fas fa-arrow-up right-margin"></i><a href='#' class='navigate_toc'>Back to top</a></span>
