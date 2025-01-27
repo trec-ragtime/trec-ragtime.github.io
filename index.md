@@ -42,24 +42,28 @@ retrieve documents that help satisfy this information need.
 
 <ul class="steps steps-vertical mb-4">
   <li class="step-item active">
-    <div class="h3 m-0">January 2025</div>
+    <div class="h3 m-0">February 2025</div>
     <div class="h3 m-0">Document Collections Released</div>
   </li>
   <li class="step-item">
-    <div class="h3 m-0">Late April/Early May 2025</div>
-    <div class="h3 m-0">Topics Released</div>
+    <div class="h3 m-0">April 2025</div>
+    <div class="h3 m-0">Track Guidelines Released</div>
   </li>
   <li class="step-item">
-    <div class="h3 m-0">Late June 2025</div>
-    <div class="h3 m-0">Dry run submissions</div>
+    <div class="h3 m-0">May 2025</div>
+    <div class="h3 m-0">Dry run Topics Released</div>
   </li>
   <li class="step-item">
-    <div class="h3 m-0">Mid July 2025</div>
+    <div class="h3 m-0">July 2025</div>
+    <div class="h3 m-0">Dry run Submissions Due</div>
+  </li>
+  <li class="step-item">
+    <div class="h3 m-0">July 2025</div>
     <div class="h3 m-0">Feedback on dry runs</div>
   </li>
   <li class="step-item">
-    <div class="h3 m-0">Mid August 2025</div>
-    <div class="h3 m-0">Submission deadline</div>
+    <div class="h3 m-0">August 2025</div>
+    <div class="h3 m-0">Final Submissions Due</div>
   </li>
 </ul>
 
