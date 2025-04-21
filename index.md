@@ -4,7 +4,7 @@ sidebar: 2025_sidebar.html
 
 # TREC RAGTIME
 
-*Last Updated: 6 December 2024*
+*Last Updated: 21 April 2025*
 
 TREC RAGTIME is a [TREC](https://trec.nist.gov/) shared task to study and benchmark **report generation** from
 news (both English and multi-lingual).
@@ -15,6 +15,8 @@ Key features of the track are its focus on **multi-faceted reports** (going beyo
 It also benchmarks Cross-Language (CLIR) and Multi-lingual (MLIR) retrieval as supporting subtasks.
 
 **Languages: English, Arabic, Chinese, and Russian**
+
+[Track Guidelines](https://docs.google.com/document/d/13ttauQKJ9ufvfHyHIPEC6ZJk4PG0OYjwQwM1n4hd4x0/edit?usp=sharing)
 
 -------
 
