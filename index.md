@@ -43,29 +43,45 @@ retrieve documents that help satisfy this information need.
 ## Timeline
 
 <ul class="steps steps-vertical mb-4">
-  <li class="step-item active">
-    <div class="h3 m-0">February 2025</div>
-    <div class="h3 m-0">Document Collections Released</div>
+  <li class="step-item">
+    <div class="h3 m-0">March 2025</div>
+    <div class="h3 m-0">Evaluation document collection released</div>
   </li>
   <li class="step-item">
     <div class="h3 m-0">April 2025</div>
     <div class="h3 m-0">Track Guidelines Released</div>
   </li>
-  <li class="step-item">
+  <li class="step-item active">
     <div class="h3 m-0">May 2025</div>
-    <div class="h3 m-0">Dry run Topics Released</div>
+    <div class="h3 m-0">(Optional) Dry run Topics Released</div>
   </li>
   <li class="step-item">
-    <div class="h3 m-0">July 2025</div>
-    <div class="h3 m-0">Dry run Submissions Due</div>
+    <div class="h3 m-0">Late June 2025</div>
+    <div class="h3 m-0">Final Topics Released</div>
+  </li>
+  <li class="step-item">
+    <div class="h3 m-0">8 July 2025</div>
+    <div class="h3 m-0">(Optional) Dry Run Submissions Due</div>
+  </li>
+  <li class="step-item">
+    <div class="h3 m-0">28 July 2025</div>
+    <div class="h3 m-0">Feedback on Dry Run</div>
   </li>
   <li class="step-item">
     <div class="h3 m-0">July 2025</div>
     <div class="h3 m-0">Feedback on dry runs</div>
   </li>
   <li class="step-item">
-    <div class="h3 m-0">August 2025</div>
+    <div class="h3 m-0">14 August 2025</div>
     <div class="h3 m-0">Final Submissions Due</div>
+  </li>
+  <li class="step-item">
+    <div class="h3 m-0">October 2025</div>
+    <div class="h3 m-0">Feedback on Final Submissions</div>
+  </li>
+  <li class="step-item">
+    <div class="h3 m-0">November 2025</div>
+    <div class="h3 m-0">TREC 2025 Conference</div>
   </li>
 </ul>
 
