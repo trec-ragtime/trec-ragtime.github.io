@@ -110,3 +110,13 @@ In alphabetical order:
 - [Eugene Yang](https://www.eugene.zone/), Johns Hopkins University, HLTCOE
 
 <span class='navigate_toc'><i class="fas fa-arrow-up right-margin"></i><a href='#' class='navigate_toc'>Back to top</a></span>
+
+-------
+
+## Contact
+
+ - Join the [Mailing List](https://groups.google.com/g/ragtime-participants) for updates and to post general questions
+ - Twitter: [@trec_ragtime](https://x.com/trec_ragtime)
+ - Any questions: ragtime-organizers@googlegroups.com
+
+<span class='navigate_toc'><i class="fas fa-arrow-up right-margin"></i><a href='#' class='navigate_toc'>Back to top</a></span>
