@@ -4,7 +4,7 @@ sidebar: 2025_sidebar.html
 
 # TREC RAGTIME
 
-*Last Updated: 21 April 2025*
+*Last Updated: 19 May 2025*
 
 TREC RAGTIME is a [TREC](https://trec.nist.gov/) shared task to study and benchmark **report generation** from
 news (both English and multi-lingual).
@@ -17,6 +17,11 @@ It also benchmarks Cross-Language (CLIR) and Multi-lingual (MLIR) retrieval as s
 **Languages: English, Arabic, Chinese, and Russian**
 
 [Track Guidelines](https://docs.google.com/document/d/13ttauQKJ9ufvfHyHIPEC6ZJk4PG0OYjwQwM1n4hd4x0/edit?usp=sharing)
+
+**Dry run topics are released! Please register at [TREC](https://trec.nist.gov/) to access the file.**
+You have to register in order to download the file and submit your run. 
+
+[Dry run Topics](https://trec.nist.gov/act_part/tracks/ragtime/topic_file_dry.jsonl)
 
 -------
 
@@ -53,7 +58,7 @@ retrieve documents that help satisfy this information need.
   </li>
   <li class="step-item active">
     <div class="h3 m-0">May 2025</div>
-    <div class="h3 m-0">(Optional) Dry run Topics Released</div>
+    <div class="h3 m-0">(Optional) Dry run Topics Released ([Dry run Topics](https://trec.nist.gov/act_part/tracks/ragtime/topic_file_dry.jsonl))</div>
   </li>
   <li class="step-item">
     <div class="h3 m-0">Late June 2025</div>
