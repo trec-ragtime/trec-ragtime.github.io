@@ -58,7 +58,7 @@ retrieve documents that help satisfy this information need.
   </li>
   <li class="step-item active">
     <div class="h3 m-0">May 2025</div>
-    <div class="h3 m-0">(Optional) Dry run Topics Released ([Dry run Topics](https://trec.nist.gov/act_part/tracks/ragtime/topic_file_dry.jsonl))</div>
+    <div class="h3 m-0">(Optional) Dry run Topics Released (<a href="https://trec.nist.gov/act_part/tracks/ragtime/topic_file_dry.jsonl">Download for TREC</a>)</div>
   </li>
   <li class="step-item">
     <div class="h3 m-0">Late June 2025</div>
