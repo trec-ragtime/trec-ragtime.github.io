@@ -51,4 +51,4 @@ You can put either `neuclir` or `ragtime` to the `collection` field.
 
 ## Contact
 
-Please send an email to us if you have any question at ragtime-organizers@googlegroups.com. 
+Please send an email to us if you have any question at [ragtime-organizers@googlegroups.com](ragtime-organizers@googlegroups.com) or at the TREC Slack. 
