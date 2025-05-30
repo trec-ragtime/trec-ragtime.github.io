@@ -20,11 +20,9 @@ It also benchmarks Cross-Language (CLIR) and Multi-lingual (MLIR) retrieval as s
 
 **Dry run topics are released! Please register at [TREC](https://trec.nist.gov/) to access the file.**
 You have to register in order to download the file and submit your run. 
-
 [Dry run Topics](https://trec.nist.gov/act_part/tracks/ragtime/topic_file_dry.jsonl)
 
 **Search Service is up! Please also register at [TREC](https://trec.nist.gov/) to gain access to the enpoint.**
-
 [Short API documentation](./search_api.md) for our search service. 
 
 -------
