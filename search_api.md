@@ -1,3 +1,8 @@
+---
+sidebar: 2025_sidebar.html
+---
+
+
 # RAGTIME Search API
 
 Based on the positive feedback we have received at NeuCLIR Report Generation Pilot last year, we provide a search endpoint using [PLAID-X](https://github.com/hltcoe/colbert-x) again for participants if you do not want to stand up a search engine by yourself. 

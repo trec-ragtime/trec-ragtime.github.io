@@ -1,4 +1,5 @@
 ---
+sidebar: 2025_sidebar.html
 ---
 
 # TREC RAGTIME
