@@ -41,7 +41,7 @@ You can retrieve the document content also from the search endpoint by using the
 For example, 
 
 ```bash
-curl -X POST https://get.url.from.trec/query -H "Content-Type: application/json" -d '{
+curl -X POST https://get.url.from.trec/content -H "Content-Type: application/json" -d '{
     "collection": "neuclir",
     "id": "01f01b3d-89c7-4f97-9d14-bd2dcdff190b"
 }'
