@@ -20,7 +20,7 @@ It also benchmarks Cross-Language (CLIR) and Multi-lingual (MLIR) retrieval as s
 
 **Dry run topics are released! Please register at [TREC](https://trec.nist.gov/) to access the file.**
 You have to register in order to download the file and submit your run. 
-[Dry run Topics](https://trec.nist.gov/act_part/tracks/ragtime/topic_file_dry.jsonl)
+[Dry run Topics](https://trec.nist.gov/act_part/tracks2025.html#ragtime)
 
 **Search Service is up! Please also register at [TREC](https://trec.nist.gov/) to gain access to the enpoint.**
 [Short API documentation](./search_api.md) for our search service. 
@@ -60,7 +60,7 @@ retrieve documents that help satisfy this information need.
   </li>
   <li class="step-item active">
     <div class="h3 m-0">May 2025</div>
-    <div class="h3 m-0">(Optional) Dry run Topics Released (<a href="https://trec.nist.gov/act_part/tracks/ragtime/topic_file_dry.jsonl">Download for TREC</a>)</div>
+    <div class="h3 m-0">(Optional) Dry run Topics Released (<a href="https://trec.nist.gov/act_part/tracks2025.html#ragtime">available here</a>)</div>
   </li>
   <li class="step-item">
     <div class="h3 m-0">Late June 2025</div>
