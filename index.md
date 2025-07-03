@@ -4,7 +4,7 @@ sidebar: 2025_sidebar.html
 
 # TREC RAGTIME
 
-*Last Updated: 30 May 2025*
+*Last Updated: 3 July 2025*
 
 TREC RAGTIME is a [TREC](https://trec.nist.gov/) shared task to study and benchmark **report generation** from
 news (both English and multi-lingual).
@@ -20,10 +20,13 @@ It also benchmarks Cross-Language (CLIR) and Multi-lingual (MLIR) retrieval as s
 
 **Dry run topics are released! Please register at [TREC](https://trec.nist.gov/) to access the file.**
 You have to register in order to download the file and submit your run. 
-[Dry run Topics](https://trec.nist.gov/act_part/tracks2025.html#ragtime)
+[Dry run Topics](https://trec.nist.gov/act_part/tracks2025.html#ragtime) or [HERE](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/dlawrie1_jh_edu/Er4p8SyZe5RHoUAWdJtjfMUBbWk09cmCJu1Hc1KDsJ8h3Q?e=Vv1f8j)
 
 **Search Service is up! Please also register at [TREC](https://trec.nist.gov/) to gain access to the enpoint.**
 [Short API documentation](./search_api.md) for our search service. 
+
+**We have released our topics for the main submission! You can find them at TREC or [HERE](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/dlawrie1_jh_edu/Er4p8SyZe5RHoUAWdJtjfMUBbWk09cmCJu1Hc1KDsJ8h3Q?e=Vv1f8j).** 
+Login with the passphrase when you signed up at TREC. (Hint: X___________v)
 
 -------
 
@@ -58,13 +61,13 @@ retrieve documents that help satisfy this information need.
     <div class="h3 m-0">April 2025</div>
     <div class="h3 m-0">Track Guidelines Released</div>
   </li>
-  <li class="step-item active">
+  <li class="step-item">
     <div class="h3 m-0">May 2025</div>
     <div class="h3 m-0">(Optional) Dry run Topics Released (<a href="https://trec.nist.gov/act_part/tracks2025.html#ragtime">available here</a>)</div>
   </li>
-  <li class="step-item">
+  <li class="step-item" active>
     <div class="h3 m-0">Late June 2025</div>
-    <div class="h3 m-0">Final Topics Released</div>
+    <div class="h3 m-0">Final Topics Released <a href="https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/dlawrie1_jh_edu/Er4p8SyZe5RHoUAWdJtjfMUBbWk09cmCJu1Hc1KDsJ8h3Q?e=Vv1f8j">[Link]</a></div>
   </li>
   <li class="step-item">
     <div class="h3 m-0">8 July 2025</div>
@@ -112,9 +115,9 @@ In alphabetical order:
 - [Dawn Lawrie](https://hltcoe.jhu.edu/researcher/dawn-lawrie/), Johns Hopkins University, HLTCOE
 - [Sean MacAvaney](https://macavaney.us/), University of Glasgow
 - [James Mayfield](https://hltcoe.jhu.edu/researcher/james-mayfield/), Johns Hopkins University, HLTCOE
-- [Douglas W. Oard](https://ischool.umd.edu/about/directory/douglas-w-oard), University of Maryland
 - [Luca Soldaini](https://soldaini.net), Allen Institute for AI
 - [Eugene Yang](https://www.eugene.zone/), Johns Hopkins University, HLTCOE
+- [Andrew Yates](https://andrewyates.net/), Johns Hopkins University, HLTCOE
 
 <span class='navigate_toc'><i class="fas fa-arrow-up right-margin"></i><a href='#' class='navigate_toc'>Back to top</a></span>
 
