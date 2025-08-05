@@ -108,6 +108,17 @@ report generation. You can find more about NeuCLIR at the [TREC NeuCLIR website]
 
 -------
 
+## Other RAG-related Tracks at TREC 2025
+
+Consider also participating in other RAG-related tracks at TREC 2025. 
+
+- [TREC RAG Track](https://trec-rag.github.io/)
+- [TREC BioGen Track](https://trec-biogen.github.io/docs/)
+- [TREC DRAGUN Track](https://trec-dragun.github.io/)
+- [TREC iKAT](https://www.trecikat.com/)
+
+-------
+
 ## Organizers
 
 In alphabetical order:
