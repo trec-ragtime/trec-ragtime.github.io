@@ -65,7 +65,7 @@ retrieve documents that help satisfy this information need.
     <div class="h3 m-0">May 2025</div>
     <div class="h3 m-0">(Optional) Dry run Topics Released (<a href="https://trec.nist.gov/act_part/tracks2025.html#ragtime">available here</a>)</div>
   </li>
-  <li class="step-item" active>
+  <li class="step-item">
     <div class="h3 m-0">Late June 2025</div>
     <div class="h3 m-0">Final Topics Released <a href="https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/dlawrie1_jh_edu/Er4p8SyZe5RHoUAWdJtjfMUBbWk09cmCJu1Hc1KDsJ8h3Q?e=Vv1f8j">[Link]</a></div>
   </li>
@@ -77,12 +77,8 @@ retrieve documents that help satisfy this information need.
     <div class="h3 m-0">28 July 2025</div>
     <div class="h3 m-0">Feedback on Dry Run</div>
   </li>
-  <li class="step-item">
-    <div class="h3 m-0">July 2025</div>
-    <div class="h3 m-0">Feedback on dry runs</div>
-  </li>
-  <li class="step-item">
-    <div class="h3 m-0">14 August 2025</div>
+  <li class="step-item active">
+    <div class="h3 m-0"><s>14 August 2025</s> 21 August 2025</div>
     <div class="h3 m-0">Final Submissions Due</div>
   </li>
   <li class="step-item">
