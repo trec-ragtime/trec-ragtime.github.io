@@ -4,7 +4,15 @@ sidebar: 2025_sidebar.html
 
 # TREC RAGTIME
 
-*Last Updated: 3 July 2025*
+*Last Updated: 19 March 2026*
+
+<div class='register-banner'>
+    <div class='register-banner-items'>
+    <b>RAGTIME will return to TREC 2026.</b> Stay tuned for our updated guidelines and submission dates. We will replace Arabic with Spanish in 2026! 
+    </div>
+</div>
+
+
 
 TREC RAGTIME is a [TREC](https://trec.nist.gov/) shared task to study and benchmark **report generation** from
 news (both English and multi-lingual).
@@ -77,7 +85,7 @@ retrieve documents that help satisfy this information need.
     <div class="h3 m-0">28 July 2025</div>
     <div class="h3 m-0">Feedback on Dry Run</div>
   </li>
-  <li class="step-item active">
+  <li class="step-item">
     <div class="h3 m-0"><s>14 August 2025</s> 21 August 2025</div>
     <div class="h3 m-0">Final Submissions Due</div>
   </li>
@@ -85,7 +93,7 @@ retrieve documents that help satisfy this information need.
     <div class="h3 m-0">October 2025</div>
     <div class="h3 m-0">Feedback on Final Submissions</div>
   </li>
-  <li class="step-item">
+  <li class="step-item active">
     <div class="h3 m-0">November 2025</div>
     <div class="h3 m-0">TREC 2025 Conference</div>
   </li>
