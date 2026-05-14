@@ -5,8 +5,8 @@ sidebar: 2025_sidebar.html
 
 # RAGTIME Search API
 
-Based on the positive feedback we have received at NeuCLIR Report Generation Pilot last year, we provide a search endpoint using [PLAID-X](https://github.com/hltcoe/colbert-x) again for participants if you do not want to stand up a search engine by yourself. 
-PLAID-X is a very effective MLIR model, which is developed along with teh NeuCLIR track. 
+Based on the positive feedback we have received at NeuCLIR Report Generation Pilot last year, we provide a search endpoint using [Qwen3 8B Embedding](https://huggingface.co/Qwen/Qwen3-Embedding-8B) using a FAISS index for participants if you do not want to stand up a search engine by yourself. 
+The endpoint is powered by [RoutIR](https://github.com/hltcoe/routir). 
 
 Please register at TREC to get the URL to the endpoint. 
 
@@ -15,25 +15,16 @@ Please register at TREC to get the URL to the endpoint.
 You can use the following HTTP POST request to retrieve documents based on your query. 
 
 ```bash
-curl -X POST https://get.url.from.trec/query -H "Content-Type: application/json" -d '{
-    "service": "plaidx-ragtime",
-    "query": "your query",
-    "limit": 10
+curl -X POST https://get.url.from.trec/pipeline -H "Content-Type: application/json" -d '{
+    "pipeline": "ragtime2%20",
+    "collection": "ragtime2",
+    "query": "your query"
 }'
 ```
 
-If you are working with the NeuCLIR data for development, you can also search among the NeuCLIR collection by specifying `plaidx-neuclir` in the `service` field. 
-You can also specify the language of the documents (only for NeuCLIR) by passing the language code to the `subset` field. 
-For example, 
+Here `ragtime2` is an alias for the pipeline `{zho%100, spa%100, rus%100, eng%100}ScoreFusion`. If you want to retrieve in a single language, you can use one of the languages alone in the `pipeline` field. Please see the documentation of `RoutIR` for more information. 
 
-```bash
-curl -X POST https://get.url.from.trec/query -H "Content-Type: application/json" -d '{
-    "service": "plaidx-neuclir",
-    "query": "your query",
-    "limit": 100,
-    "subset": "fas"
-}'
-```
+If you are working with the NeuCLIR data for development, you can replace the pipeline with `ragtime1` to retrieve documents in RAGTIME 2025 languages (i.e., Chinese, Arabic, Russian and English), which is an alias for the pipeline `{zho%100, arb%100, rus%100, eng%100}ScoreFusion`. 
 
 ## Get Document Content
 
@@ -42,12 +33,10 @@ For example,
 
 ```bash
 curl -X POST https://get.url.from.trec/content -H "Content-Type: application/json" -d '{
-    "collection": "neuclir",
+    "collection": "ragtime2",
     "id": "01f01b3d-89c7-4f97-9d14-bd2dcdff190b"
 }'
 ```
-
-You can put either `neuclir` or `ragtime` to the `collection` field. 
 
 ## Contact
 
