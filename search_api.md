@@ -22,9 +22,9 @@ curl -X POST https://get.url.from.trec/pipeline -H "Content-Type: application/js
 }'
 ```
 
-Here `ragtime2` is an alias for the pipeline `{zho%100, spa%100, rus%100, eng%100}ScoreFusion`. If you want to retrieve in a single language, you can use one of the languages alone in the `pipeline` field. Please see the documentation of `RoutIR` for more information. 
+Here `ragtime2` is an alias for the pipeline `{zho%25, spa%25, rus%25, eng%25}ScoreFusion`. If you want to retrieve in a single language, you can use one of the languages alone in the `pipeline` field. Please see the documentation of `RoutIR` for more information. 
 
-If you are working with the NeuCLIR data for development, you can replace the pipeline with `ragtime1` to retrieve documents in RAGTIME 2025 languages (i.e., Chinese, Arabic, Russian and English), which is an alias for the pipeline `{zho%100, arb%100, rus%100, eng%100}ScoreFusion`. 
+If you are working with the NeuCLIR data for development, you can replace the pipeline with `ragtime1` to retrieve documents in RAGTIME 2025 languages (i.e., Chinese, Arabic, Russian and English), which is an alias for the pipeline `{zho%25, arb%25, rus%25, eng%25}ScoreFusion`. 
 
 ## Get Document Content
 
