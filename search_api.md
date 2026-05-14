@@ -17,7 +17,6 @@ You can use the following HTTP POST request to retrieve documents based on your 
 ```bash
 curl -X POST https://get.url.from.trec/pipeline -H "Content-Type: application/json" -d '{
     "pipeline": "ragtime2%20",
-    "collection": "ragtime2",
     "query": "your query"
 }'
 ```
